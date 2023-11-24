@@ -1,0 +1,7 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Aleksander Fredro}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}o pierdzeniu}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Wislawa Szymborska}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Nic dwa razy}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Jan Brzechwa}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Slimak}{5}{section.3.1}%
